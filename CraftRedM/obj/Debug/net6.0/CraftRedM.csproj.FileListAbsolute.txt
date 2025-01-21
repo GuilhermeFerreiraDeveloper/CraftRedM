@@ -1,0 +1,14 @@
+C:\Users\WIN11\source\repos\CraftRedM\CraftRedM\obj\Debug\net6.0\CraftRedM.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\WIN11\source\repos\CraftRedM\CraftRedM\obj\Debug\net6.0\CraftRedM.AssemblyInfoInputs.cache
+C:\Users\WIN11\source\repos\CraftRedM\CraftRedM\obj\Debug\net6.0\CraftRedM.AssemblyInfo.cs
+C:\Users\WIN11\source\repos\CraftRedM\CraftRedM\obj\Debug\net6.0\CraftRedM.csproj.CoreCompileInputs.cache
+C:\Users\WIN11\source\repos\CraftRedM\CraftRedM\bin\Debug\net6.0\CraftRedM.exe
+C:\Users\WIN11\source\repos\CraftRedM\CraftRedM\bin\Debug\net6.0\CraftRedM.deps.json
+C:\Users\WIN11\source\repos\CraftRedM\CraftRedM\bin\Debug\net6.0\CraftRedM.runtimeconfig.json
+C:\Users\WIN11\source\repos\CraftRedM\CraftRedM\bin\Debug\net6.0\CraftRedM.dll
+C:\Users\WIN11\source\repos\CraftRedM\CraftRedM\bin\Debug\net6.0\CraftRedM.pdb
+C:\Users\WIN11\source\repos\CraftRedM\CraftRedM\obj\Debug\net6.0\CraftRedM.dll
+C:\Users\WIN11\source\repos\CraftRedM\CraftRedM\obj\Debug\net6.0\refint\CraftRedM.dll
+C:\Users\WIN11\source\repos\CraftRedM\CraftRedM\obj\Debug\net6.0\CraftRedM.pdb
+C:\Users\WIN11\source\repos\CraftRedM\CraftRedM\obj\Debug\net6.0\CraftRedM.genruntimeconfig.cache
+C:\Users\WIN11\source\repos\CraftRedM\CraftRedM\obj\Debug\net6.0\ref\CraftRedM.dll

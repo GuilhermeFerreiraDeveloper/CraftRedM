@@ -1,0 +1,75 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\WIN11\\source\\repos\\CraftRedM\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D77E7F5A-7AE8-444C-9A1D-95F02A142919}|CraftRedM\\CraftRedM.csproj|c:\\users\\win11\\source\\repos\\craftredm\\craftredm\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D77E7F5A-7AE8-444C-9A1D-95F02A142919}|CraftRedM\\CraftRedM.csproj|solutionrelative:craftredm\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D77E7F5A-7AE8-444C-9A1D-95F02A142919}|CraftRedM\\CraftRedM.csproj|c:\\users\\win11\\source\\repos\\craftredm\\craftredm\\material.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D77E7F5A-7AE8-444C-9A1D-95F02A142919}|CraftRedM\\CraftRedM.csproj|solutionrelative:craftredm\\material.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D77E7F5A-7AE8-444C-9A1D-95F02A142919}|CraftRedM\\CraftRedM.csproj|c:\\users\\win11\\source\\repos\\craftredm\\craftredm\\itemcraft.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D77E7F5A-7AE8-444C-9A1D-95F02A142919}|CraftRedM\\CraftRedM.csproj|solutionrelative:craftredm\\itemcraft.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ItemCraft.cs",
+              "DocumentMoniker": "C:\\Users\\WIN11\\source\\repos\\CraftRedM\\CraftRedM\\ItemCraft.cs",
+              "RelativeDocumentMoniker": "CraftRedM\\ItemCraft.cs",
+              "ToolTip": "C:\\Users\\WIN11\\source\\repos\\CraftRedM\\CraftRedM\\ItemCraft.cs",
+              "RelativeToolTip": "CraftRedM\\ItemCraft.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAowBYAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-09T21:01:37.527Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Material.cs",
+              "DocumentMoniker": "C:\\Users\\WIN11\\source\\repos\\CraftRedM\\CraftRedM\\Material.cs",
+              "RelativeDocumentMoniker": "CraftRedM\\Material.cs",
+              "ToolTip": "C:\\Users\\WIN11\\source\\repos\\CraftRedM\\CraftRedM\\Material.cs",
+              "RelativeToolTip": "CraftRedM\\Material.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-09T20:59:54.505Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\WIN11\\source\\repos\\CraftRedM\\CraftRedM\\Program.cs",
+              "RelativeDocumentMoniker": "CraftRedM\\Program.cs",
+              "ToolTip": "C:\\Users\\WIN11\\source\\repos\\CraftRedM\\CraftRedM\\Program.cs",
+              "RelativeToolTip": "CraftRedM\\Program.cs",
+              "ViewState": "AgIAAGUAAAAAAAAAAAAwwCIAAABDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-09T20:50:02.52Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
